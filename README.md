@@ -1,7 +1,7 @@
 # RexshackGaming
 - discord : https://discord.gg/zx8ZXhEjPU
 - youtube : https://www.youtube.com/channel/UCikEgGfXO-HCPxV5rYHEVbA/videos
-- github : https://github.com/orgs/Rexshack-FiveM
+- github : https://github.com/Rexshack-FiveM
 
 # Framework QBCore FiveM Edition
 - https://github.com/qbcore-framework
